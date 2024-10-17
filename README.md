@@ -1,4 +1,4 @@
- <html>
+<html>
 <head><title>Devansh Portfolio</title>
 <link rel="stylesheet" href="css/index.css">
 </head>
@@ -60,8 +60,10 @@
 </div>
 
 <div class="akhri">
-<h5>Social Media Presence<h5>
+<h5>Social Media Presence</h5>
 <a class="shift" href="">Youtube</a>
 <a class="shift" href="">Instagram</a>
 <a class="shift" href="">Twitter</a>
 </div>
+</body>
+</html>
